@@ -1,0 +1,24 @@
+{
+  "name": "gactionspractice",
+  "version": "1.0.0",
+  "description": "gactionspractice",
+  "main": "app.js",
+  "scripts": {
+    "serve": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoLetsCode/gitActionsPractice.git"
+  },
+  "author": "soletscode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoLetsCode/gitActionsPractice/issues"
+  },
+  "homepage": "https://github.com/SoLetsCode/gitActionsPractice#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
